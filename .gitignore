@@ -1,6 +1,13 @@
 CMakeFiles/
 CMakeCache.txt
-Makefile
+### Build files
+CMakeFiles/
+CMakeCache.txt
 cmake_install.cmake
 code
 
+# Do not ignore Makefile, we need it for OJ build
+cmake_install.cmake
+code
+
+Makefile
